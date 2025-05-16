@@ -28,7 +28,6 @@ This Java program automates interaction with the Solutions Plus Outlet website u
 8. **Closes the Browser**  
    Gracefully quits the Chrome browser to end the session.
 
----
 
 ### 🧰 Tools & Libraries Used:
 - **Java**
